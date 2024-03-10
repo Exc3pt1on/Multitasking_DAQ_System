@@ -1,0 +1,10 @@
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Software Engineering\Assignment\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Software Engineering\Assignment\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Software Engineering\Assignment\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Software Engineering\Assignment\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.AssemblyReference.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Software Engineering\Assignment\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Form1.resources
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Software Engineering\Assignment\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Software Engineering\Assignment\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Software Engineering\Assignment\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Software Engineering\Assignment\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Software Engineering\Assignment\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
